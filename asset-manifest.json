@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-card-game/static/css/main.d9679241.css",
+    "main.js": "/react-card-game/static/js/main.514c677e.js",
+    "static/js/787.7cec9d6c.chunk.js": "/react-card-game/static/js/787.7cec9d6c.chunk.js",
+    "static/media/thinkingboy.png": "/react-card-game/static/media/thinkingboy.ed5d5644bcdb44ba9dd1.png",
+    "static/media/leaf.png": "/react-card-game/static/media/leaf.b890a28bc45e18e33877.png",
+    "static/media/slippers.png": "/react-card-game/static/media/slippers.fae940d5b406725783ab.png",
+    "static/media/tree.png": "/react-card-game/static/media/tree.aedaa37316c65682a7cd.png",
+    "static/media/sun.png": "/react-card-game/static/media/sun.74725c949c150f18dd1f.png",
+    "static/media/banana.png": "/react-card-game/static/media/banana.6199966b400302063ddb.png",
+    "static/media/flamingo.png": "/react-card-game/static/media/flamingo.e4fbb1445f81753feb39.png",
+    "static/media/icecream.png": "/react-card-game/static/media/icecream.44b9d42ea09a6e2b346c.png",
+    "static/media/lifebuoy.png": "/react-card-game/static/media/lifebuoy.a6dc1da12235b8d1078f.png",
+    "static/media/cocktail.png": "/react-card-game/static/media/cocktail.eef95c1df56b10d926b0.png",
+    "static/media/flower.png": "/react-card-game/static/media/flower.d14ebc326b2f005be599.png",
+    "static/media/hat.png": "/react-card-game/static/media/hat.06cb576d1534e9b875c9.png",
+    "static/media/deer.png": "/react-card-game/static/media/deer.2fae268e1463b4ced0a8.png",
+    "static/media/mystery.png": "/react-card-game/static/media/mystery.54facc64f55c45f9fc72.png",
+    "index.html": "/react-card-game/index.html",
+    "main.d9679241.css.map": "/react-card-game/static/css/main.d9679241.css.map",
+    "main.514c677e.js.map": "/react-card-game/static/js/main.514c677e.js.map",
+    "787.7cec9d6c.chunk.js.map": "/react-card-game/static/js/787.7cec9d6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9679241.css",
+    "static/js/main.514c677e.js"
+  ]
+}
