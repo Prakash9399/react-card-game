@@ -1,0 +1,23 @@
+.level-grid-child:hover {
+  cursor: pointer;
+}
+img.front-card{
+  width: 80px;
+  height: 80px;
+}
+img.back-card{
+  width: 80px;
+  height: 80px;
+}
+.front-card {
+  position: absolute;
+}
+.flipped .front-card {
+  transform: rotateY(90deg);
+}
+.back-card {
+  transform: rotateY(90deg);
+}
+.flipped .back-card {
+  transform: rotateY(0deg);
+}

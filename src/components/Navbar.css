@@ -1,0 +1,44 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  font-size: larger;
+  font-family: fantasy;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+li {  
+  list-style: none;
+}
+
+.home {
+  text-decoration: none;
+  color: black;
+}
+.home.active { 
+  border-bottom: 4px rgb(63, 183, 210) solid;
+}
+
+.easy {
+  text-decoration: none;
+  color: black;
+}
+.easy.active { 
+  border-bottom: 4px rgb(63, 183, 210) solid;
+}
+
+.medium {
+  text-decoration: none;
+  color: black;
+}
+.medium.active { 
+  border-bottom: 4px rgb(63, 183, 210) solid;
+}
+
+.hard {
+  text-decoration: none;
+  color: black;
+}
+.hard.active { 
+  border-bottom: 4px rgb(63, 183, 210) solid;
+}

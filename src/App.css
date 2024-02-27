@@ -1,0 +1,10 @@
+.main-card {
+  margin: 50px auto;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 50px 0px;  
+  background-color: seashell;
+  width: 80%;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}

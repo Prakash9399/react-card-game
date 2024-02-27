@@ -1,0 +1,64 @@
+.level-content {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.easy-level-grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 30vh;
+  margin: 2%;
+}
+
+.medium-level-grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50vh;
+  margin: 2%;
+}
+
+.hard-level-grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70vh;
+  margin: 2%;
+}
+
+.level-content-child {
+  padding:10px;
+  align-self: center;
+}
+
+.turn-counter {
+  font-size: larger;
+  font-family: fantasy;
+}
+
+.new-game-button {
+  background-color: seashell;
+  border: 2px solid rgb(63, 183, 210);
+  padding-top: 7px;
+  font-family: fantasy;
+  cursor: pointer;
+  font-size: larger;
+}
+.new-game-button:hover {
+  color: white;
+  background-color: rgb(63, 183, 210);
+}
+
+.congratulations {
+  font-size: larger;
+  font-family: fantasy;
+  margin-top: 6px;
+}
+
+@media screen and (max-width: 420px) {
+  .level-content-child {
+    padding: 10px;
+    position: fixed;
+    left:0;
+    bottom: 0;
+    width: 100%;
+  }
+}

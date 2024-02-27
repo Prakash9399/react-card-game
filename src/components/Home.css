@@ -1,0 +1,23 @@
+.home-content{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.title{
+    font-family: fantasy;
+    font-size: 40px;
+    align-self: center;
+}
+
+.thinking-boy img{
+    width: 400px;
+    height: 400px;
+}
+
+@media screen and (max-width: 420px) {
+    .thinking-boy img{
+        width: 300px;
+        height: 300px;
+    }
+}
